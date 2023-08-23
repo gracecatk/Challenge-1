@@ -4,7 +4,8 @@ we are basically cleaning up the code, and making sure all the hot buttons are f
     box-sizing: border-box;
     padding: 0;
     margin: 0; 
-    /* make font family for gill sans */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* added font family for gill sans */
 }
 
 body {
