@@ -1,4 +1,4 @@
-/* clean up duplicates, clean up code!!! if they call for the same thing, group them together, add comments about what they do
+/* cleaned up duplicates, clean up code!!! if they call for the same thing, group them together, add comments about what they do
 we are basically cleaning up the code, and making sure all the hot buttons are functional and make you just to corresponding part of page*/
 * {
     box-sizing: border-box;
@@ -141,7 +141,7 @@ p {
     color: #ffffff;
 }
 
-/* group together */
+/* grouped together img */
 .search-engine-optimization img , .online-reputation-management img , .social-media-marketing img {
     max-height: 200px;
 }
