@@ -4,8 +4,6 @@ we are basically cleaning up the code, and making sure all the hot buttons are f
     box-sizing: border-box;
     padding: 0;
     margin: 0; 
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    /* added font family for gill sans */
 }
 
 body {
@@ -91,6 +89,7 @@ p {
 }
 /* made a benifit group for class ".benifit-group" and ".benifit-group img*/
 
+/* moved below around so they are in order */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
